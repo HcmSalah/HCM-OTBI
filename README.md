@@ -1,19 +1,42 @@
-OTBI CUSTOM REPORT
+# Oracle HCM – OTBI Custom Report & Dashboard
 
-CREATED DASHBOARD
+## 📊 OTBI Custom Report
 
-CREATED ADDITIONAL 3 USERS:
-1ST USER HAS ACCESS TO ONE DEPARTMENT ONLY IN THE DASHBOARD (Applications and Services)
-2ND USER HAS ACCESS TO ONE DEPARTMENT ONLY IN THE DASHBOARD (Enrollment Services HE US)
-3RD USER HAS ACCESS TO TWO DEPARTMENTS ONLY IN THE DASHBOARD (Applications and Services & Enrollment Services HE US)
-(ADMIN USER HAS ACCESS TO ALL DEPARTMENTS)
+Created a custom Oracle HCM report using BI Publisher / OTBI.
 
-TEST USER AVAILABLE UPON REQUEST!
+## 📈 Dashboard
 
-https://youtu.be/YOZYg6x4H3k
+Created and configured a custom dashboard with department-level data security.
 
-Thank you
-Mohamed Salah
+## 🔐 Data Security & User Access
+
+Created **3 additional test users** with different department access levels:
+
+| User | Department Access |
+|---|---|
+| **User 1** | Applications and Services |
+| **User 2** | Enrollment Services HE US |
+| **User 3** | Applications and Services + Enrollment Services HE US |
+| **Admin User** | All Departments |
+
+### Access Scenarios
+
+- **User 1:** Access to **one department only** – Applications and Services
+- **User 2:** Access to **one department only** – Enrollment Services HE US
+- **User 3:** Access to **two departments only** – Applications and Services & Enrollment Services HE US
+- **Admin User:** Access to **all departments**
+
+## 🧪 Testing
+
+A test user is available upon request for validation of the department-level security setup.
+
+## 🎥 Demo
+
+[Watch the demonstration video](https://youtu.be/Y0ZYg6x4H3k)
+
+---
+
+### 👤 Author
+
+**Mohamed Salah**  
 HCM Fusion Consultant
-
-
