@@ -32,7 +32,7 @@ A test user is available upon request for validation of the department-level sec
 
 ## 🎥 Demo
 
-[Watch the demonstration video](https://youtu.be/Y0ZYg6x4H3k)
+[Watch the demonstration video](https://www.youtube.com/watch?v=YOZYg6x4H3k)
 
 ---
 
